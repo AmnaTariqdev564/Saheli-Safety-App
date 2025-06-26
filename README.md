@@ -22,9 +22,9 @@
 
 ---
 ## Screenshots
-![ss]()()()
-![ss]()()()
-===
+![ss](https://github.com/AmnaTariqdev564/Saheli-Safety-App/blob/7646d0476bc8ecd67849a14a1a7b04b37571f7d4/1.jpg)
+![ss](https://github.com/AmnaTariqdev564/Saheli-Safety-App/blob/7646d0476bc8ecd67849a14a1a7b04b37571f7d4/2.jpg)
+---
 ## 🛠️ Tech Stack
 
 - Android Studio (Java/Kotlin)  
